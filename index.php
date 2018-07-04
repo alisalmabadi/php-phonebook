@@ -79,9 +79,6 @@ if(isset($_GET['del_id'])){
 </head>
 
 <body>
-
-<img src="img/header.png">
-
 <!-- Modal -->
 <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="modal-dialog">

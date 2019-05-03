@@ -26,7 +26,7 @@ A browser!
 A step by step series of examples that tell you how to get a development env running
 
 ```
-1- According to the previouse step you must have installed any software for launching php projects
+1- According to the previous step you must have installed any software for launching php projects
 ```
 
 ```
